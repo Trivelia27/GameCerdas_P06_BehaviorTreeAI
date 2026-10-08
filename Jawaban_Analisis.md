@@ -1,8 +1,11 @@
-# Praktikum 6 — Behavior Tree & Utility-Based AI
+# Praktikum 6 - Behavior Tree & Utility-Based AI
 
-**Kelompok:** _(isi identitas kelompok)_
-**Anggota:** _(isi nama & NRP seluruh anggota)_
-**Link video demo:** _(isi link)_
+**Nama Kelompok	: (2) Choom**
+**Anggota		    : **
+**- Triana Velia Hutabalian (5025231190)
+- Lailatul Annisa Fitriana (5025231202)
+- Rafaela Shyra Ashma' Ramadhani (5025231217)**
+**Kelas           : Game Cerdas (T)**
 
 Bonus yang dikerjakan:
 - **Search Last Seen Position** (`EnemyBTController.cs`) — Enemy menyimpan posisi terakhir Player terlihat, menuju ke sana saat Player hilang, melihat sekeliling 3 detik, lalu kembali Patrol.
