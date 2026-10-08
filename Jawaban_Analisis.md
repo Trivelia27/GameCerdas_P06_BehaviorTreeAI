@@ -133,21 +133,4 @@ Membungkus satu child (Attack) dan membatasi frekuensi eksekusinya. Tanpa cooldo
 
 ---
 
-## Hasil Pengujian (isi saat demo)
-
-| Uji | Hasil |
-|---|---|
-| Patrol saat Player tidak terlihat | ☐ |
-| Chase saat Player terlihat | ☐ |
-| Attack saat Player ≤ Attack Range | ☐ |
-| Cooldown (Attack ±1,5 detik sekali, bukan tiap frame) | ☐ |
-| Obstacle menghalangi Line of Sight | ☐ |
-| FOV (Player di belakang Enemy tidak terlihat) | ☐ |
-| Animator: Idle → Walk → Run → Attack → Flee terlihat berganti sesuai action | ☐ |
-| Personality: Aggressive lebih cepat melihat/mengejar/menyerang, Coward kabur lebih awal (tekan **H**) | ☐ |
-| Utility AI: tidak berganti action bolak-balik di dekat skor seri | ☐ |
-| Search: Player bersembunyi di balik Wall → Enemy menuju posisi terakhir, melihat sekeliling, lalu Patrol | ☐ |
-| Flee saat HP ≤ 30 (tekan **H** 3× lalu cek) | ☐ |
-| Current Action terlihat di HUD / Inspector | ☐ |
-
 **Kontrol:** WASD / panah = gerak Player · **H** = damage Enemy 25 · **J** = reset HP Enemy · **K** = reset HP Player · **R** = restart scene.
