@@ -3,10 +3,10 @@
 **Nama Kelompok	: (2) Choom**
 
 **Anggota**		    :
-**
-- Triana Velia Hutabalian (5025231190)
-- Lailatul Annisa Fitriana (5025231202)
-- Rafaela Shyra Ashma' Ramadhani (5025231217)**
+
+- **Triana Velia Hutabalian (5025231190)**
+- **Lailatul Annisa Fitriana (5025231202)**
+- **Rafaela Shyra Ashma' Ramadhani (5025231217)**
 **Kelas           : Game Cerdas (T)**
 
 Bonus yang dikerjakan:
